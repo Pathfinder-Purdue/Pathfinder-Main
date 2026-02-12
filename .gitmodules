@@ -1,0 +1,6 @@
+[submodule "Pathfinder-RP5"]
+	path = Pathfinder-RP5
+	url = https://github.com/Pathfinder-Purdue/Pathfinder-RP5.git
+[submodule "Pathfinder-ESP32"]
+	path = Pathfinder-ESP32
+	url = https://github.com/Pathfinder-Purdue/Pathfinder-ESP32.git
